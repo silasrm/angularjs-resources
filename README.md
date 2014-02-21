@@ -1,0 +1,4 @@
+angularjs-resources
+===================
+
+AngularJS resources
